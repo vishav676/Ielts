@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <android.support.v4.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:layout_alignParentTop="true"
+                    android:src="@drawable/shamsher" />
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:layout_alignParentEnd="true"
+                    android:src="@drawable/harminder"/>
+            </RelativeLayout>
+        </android.support.v4.widget.NestedScrollView>
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_margin="16dp"
+            android:layout_height="match_parent"
+            android:id="@+id/bottom_sheet"
+            app:elevation="4dp"
+            app:cardElevation="4dp"
+            app:cardCornerRadius="8dp"
+            app:layout_behavior="@string/bottom_sheet_behavior">
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="20sp"
+                    android:padding="8dp"
+                    android:text="7 Star Continental is an institution born out of the need for information and professional guidance in the field of Overseas Education . This institution has been established after thorough research and with a professional attitude through a team of highly qualified professionals with a wealth of experience from diverse educational and professional backgrounds. 7 Star strives for success for all its stakeholders through hard work and dedication. As Study Abroad Consultants, we provide a quality, holistic service. 7 Star advises students and helps them select and secure admissions in the universities of their choice. 7 Star  assists throughout the application process and offers a full range of support services. Our objective is to have a strong 'support line' between the student and the university. We are known for our superior services and honest consultancy. 7 Star has a strong goodwill among the student community and is widely respected for its judgement and advice. 7 Star is the flagship institute for students and professionals aspiring to take the IELTS test. Its genesis lies in an urge to set standards of excellence and perfection in quest for a high score in the IELTS test. 7 Star is not just an institute but a forum for IELTS test, an ideal launching pad for candidates requiring high bands in the IELTS test. At the end of the day it is our honesty and commitment which fuels our growth and attracts students to us. "/>
+            </ScrollView>
+        </android.support.v7.widget.CardView>
+    </android.support.design.widget.CoordinatorLayout>
+
+    <LinearLayout
+        android:id="@+id/banner_container3"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical" />
+
+</RelativeLayout>

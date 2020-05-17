@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">7 Star</string>
+    <string name="title_activity_nav_c">7 Star Continental Group</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+
+    <string name="action_settings">Rate Us</string>
+    <string name="ads">ca-app-pub-4869504454365940/4421119991</string>
+
+    <string name="title_activity_up">up</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <array name="content">
+        <item>
+            \nCAUSES: \n Natural Causes\n1. Green house effect i.e. a gas that traps heat in the
+            earth\'s atmosphere.\n2. Earth goes through a cycle of climate change.\n\n Man made
+            causes\n1. Carbon dioxide and other gases from power plants.\n2. Pollution.\n3.
+            Building,both commercial and residental area.\n4. Deforestation.\n5. Increase in usage
+            of chemical fertilizers.\n\n Effects\n1. Rise in sea level world wide which is
+            responsible for natural disasters.\n2. Increase in storms like hurricanes.\n3. Massive
+            crop fertilizers.\n4. Extinction of species.\n5. Disappearance of coral
+            reefs.\n\nSolutions\n1. Reduce pollution using car pooling and public transport.\n2.
+            Afforestation.\n3. using alternative gas like C.N.G.\n4. Minimum use of technology
+            appliances like air conditions.
+        </item>
+        <item>
+            Factors\n Individual Factors\n1. A minor who has a lower intelligence and who has not
+            received proper education.\n2. Uncontrolled Aggression.\n3. Lack of proper parental
+            supervision.\n4. Ongoing parental Conflicts.\n5. Media.\n\n Prevention\n\'Prevention is
+            always Better than cure\'\n1. Education\n2. Recreation Activities which will help
+            students to reduce loneliness.\n3. Community involvement: Community group provides youth
+            a safe social environment to grow, develop and flourish.
+        </item>
+        <item>
+            Reasons\n 1. Better economic prospects\n 2. HIgher Salary and income\n 3.Better level of
+            living\n 4.Intellectual freedom\n 5.Better working environment.\n\nSolutions:-\n
+            1.Government should promote industrialization \n 2. Increase Working condition \n 3.
+            Increase foreign investments\n 4. Parents should not encourage their children to go
+            abroad and settle there.\n 5. Provision of maximum security.\n 6. Improve educational
+            standard.
+        </item>
+        <item>
+            Benefits: -\n1. People come to know about bussiness.\n2. Provides employment to lot of
+            people.\n3. Help customers to compare prices of same product.\n4. Commercial Ad is
+            artistic and thought provoking.\n\nDrawbacks: -\n1. Advertisement are not productive; it
+            is wasteful expenditure and financial burden on company.\n2. Some advertisement provides
+            fake quality\n3. Advertisements make people spend thrift.\n4. Some ads appeal people to
+            use articles that are harmful to health.
+        </item>
+        <item>
+            Crime is a serious issue of many countries in the contemporary society; in particular,
+            the crime rate gradually increases annually in some sectors
+            worldwide\n\n\tCauses\n1.Poverty is main reason due to which people rob to earn bread
+            and binner\n2.Violence from media which provides individuals negative
+            influences\n3.Losing control of one’s emotions or physiology.\n4. First time offenders
+            committing crimes again.\n\n\tSolutions\n1.Severe punishments\n2. Improvements in
+            education.\n3. Ameliorating living conditions.
+        </item>
+        <item>
+            It is an undeniable fact that people have been fond of latest fashions, hairstyles and
+            innovations of technology over the last few years.\n\n\tPros\n1. It enhances
+            personality.\n2. Helps people to move with time and society.\n3.Makes a person more
+            confident.\n\n\tCons\n1. Makes a person spend thrift (makes a hole in one\'s
+            pocket)\n2.Fashion destroys the culture of country.\n3. Lured by fashion resulting
+            diversion from studies and career.
+        </item>
+        <item>
+            A person moves from one job to another within a relatively short period of time, it is
+            called job hopping.\n\n\tReasons\n1. Dis-satisfaction with job.\n2. Health issues.\n3. A
+            lot of presssure on employees.\n\n\tRemedies\n1. Be Generous.\n2. Company should take
+            regular feedback\n3. person should keep himself self motivated.
+        </item>
+        <item>
+            Globalisation is a common scenario. It means integration of world economically,
+            socially, politically.\n\n\tPros\n1. We all become equal.\n2. The world has one
+            universal standard of quality for all.\n3. More opportunity for employment.\n4. Reduces
+            poverty.\n\n\tCons\n1. Countries lose their culture and tradition.\n2. Fashion and
+            advertising will not always suit different religious and cultural ideals, therefore
+            create problems.\n3. Companies migrate to countries whee labour is cheap
+        </item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <array name="ListenQuestion">
+        <item>
+            Name of speaker
+        </item>
+        <item>
+            DOB of speaker
+        </item>
+    </array>
+    <array name="options1">
+        <item>
+            Vishav
+        </item>
+        <item>
+            13Nov
+        </item>
+    </array>
+    <array name="options2">
+        <item>
+            Vishav1
+        </item>
+        <item>
+            13Nov1
+        </item>
+    </array>
+    <array name="options3">
+        <item>
+            Vishav2
+        </item>
+        <item>
+            13Nov2
+        </item>
+    </array>
+    <array name="options4">
+        <item>
+            Vishav4
+        </item>
+        <item>
+            13Nov4
+        </item>
+    </array>
+</resources>

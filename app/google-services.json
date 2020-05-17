@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "776328211938",
+    "firebase_url": "https://star-812dd.firebaseio.com",
+    "project_id": "star-812dd",
+    "storage_bucket": "star-812dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776328211938:android:aec1626ef3e93c2b",
+        "android_client_info": {
+          "package_name": "vishav.a7star"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776328211938-fbh9h803tts9dhiqflhu0iu146pcnlfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vishav.a7star",
+            "certificate_hash": "06a82a12b474af54f3278c4c9aae643521310566"
+          }
+        },
+        {
+          "client_id": "776328211938-vv5m3ee90kk46sb82rvdqe305f15o2kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF2I-weGlK1VC2ZZdXDJEEDwC3wlYHKG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776328211938-vv5m3ee90kk46sb82rvdqe305f15o2kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
